@@ -1,0 +1,28 @@
+body{
+  background-color: lightpink;
+}
+
+  .main {
+   display: flex;
+    margin: 2%;
+    padding: 2%;
+    width: 95%;
+  }
+   .main section{
+     width: 95%;
+     border: 2px solid blue;
+     margin: 1%;
+   }
+section{
+  background-color: orange;
+  text-align: center;
+  margin :1%;
+  padding :1%;
+}
+button{
+  width :95%;
+  background: orange;
+  padding :1%;
+  margin :1%;
+  font-size :30pxs
+}
